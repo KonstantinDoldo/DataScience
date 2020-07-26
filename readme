@@ -1,0 +1,9 @@
+3 модели:
+- метод к-ближайших соседей (KNR - k-neighbours regressor)
+- нейросеть многослойный перцептрон (MLP - multi-layer perceptron)
+- метод случайный лес (RFR - random forest regressor) + кросс-валидация/расширенное обучение через GridSearch
+
+данные - NDVI поля за 16-19 (4) года, еженедельные данные
+
+ref*:
+  ndvi - normalized difference vegetation index  
